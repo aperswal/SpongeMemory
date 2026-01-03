@@ -1,0 +1,28 @@
+# Build artifacts
+/target/
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+!.env.example
+
+# Data directories
+sponge-data/
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python SDK
+sdks/python/__pycache__/
+sdks/python/*.egg-info/
+sdks/python/dist/
+sdks/python/build/
+sdks/python/.venv/

@@ -1,0 +1,63 @@
+[workspace]
+resolver = "2"
+members = ["crates/*"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+license = "BSL-1.1"
+repository = "https://github.com/yourusername/sponge"
+description = "Biologically-inspired memory system for AI applications"
+
+[workspace.dependencies]
+# Async runtime
+tokio = { version = "1.43", features = ["full"] }
+
+# Web framework
+axum = { version = "0.8", features = ["macros"] }
+tower = "0.5"
+tower-http = { version = "0.6", features = ["cors", "trace"] }
+
+# Serialization
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+# HTTP client for embedding APIs
+reqwest = { version = "0.12", features = ["json"] }
+
+# HNSW index (true incremental insertion)
+# Note: 0.3.2+ requires Rust edition 2024, so Docker uses nightly
+hnsw_rs = "0.3"
+
+# Storage
+parking_lot = "0.12"
+dashmap = "6.1"
+moka = { version = "0.12", features = ["future", "sync"] }
+
+# Persistence
+sled = "0.34"
+
+# Time
+chrono = { version = "0.4", features = ["serde"] }
+
+# Utilities
+thiserror = "2.0"
+anyhow = "1.0"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+uuid = { version = "1.11", features = ["v4", "serde"] }
+async-trait = "0.1"
+bytes = "1.9"
+
+# Caching
+sha2 = "0.10"
+hex = "0.4"
+
+# Config
+figment = { version = "0.10", features = ["toml", "env"] }
+
+# Testing
+tokio-test = "0.4"
+tempfile = "3.14"
+dotenvy = "0.15"
+futures = "0.3"

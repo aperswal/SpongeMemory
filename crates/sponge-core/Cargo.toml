@@ -1,0 +1,37 @@
+[package]
+name = "sponge-core"
+version.workspace = true
+edition = "2021"
+license.workspace = true
+description = "Core memory engine for Sponge"
+
+[dependencies]
+tokio = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+reqwest = { workspace = true }
+hnsw_rs = { workspace = true }
+parking_lot = { workspace = true }
+dashmap = { workspace = true }
+moka = { workspace = true }
+sled = { workspace = true }
+chrono = { workspace = true }
+thiserror = { workspace = true }
+anyhow = { workspace = true }
+tracing = { workspace = true }
+uuid = { workspace = true }
+async-trait = { workspace = true }
+bytes = { workspace = true }
+figment = { workspace = true }
+sha2 = { workspace = true }
+hex = { workspace = true }
+
+[dev-dependencies]
+tokio-test = { workspace = true }
+tempfile = { workspace = true }
+dotenvy = { workspace = true }
+futures = { workspace = true }
+
+[[example]]
+name = "generate_corpus"
+path = "examples/generate_corpus.rs"

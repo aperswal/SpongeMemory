@@ -1,0 +1,1818 @@
+{
+  "persona": {
+    "id": "enterprise_employee",
+    "name": "Sarah Williams",
+    "role": "Marketing Manager",
+    "description": "Mid-level employee using company's internal AI assistant for HR questions, IT help, expense reports, meeting scheduling, and company policies.",
+    "topics": [
+      "hr_benefits",
+      "it_support",
+      "expenses_travel",
+      "meetings_calendar",
+      "company_policies",
+      "team_management"
+    ]
+  },
+  "memories": [
+    {
+      "content": "User asked about dental coverage options on January 20th.",
+      "topic": "hr_benefits",
+      "subtopic": "dental_coverage",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about vision benefits for dependents.",
+      "topic": "hr_benefits",
+      "subtopic": "vision_coverage",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested information on short-term disability leave on February 5th.",
+      "topic": "hr_benefits",
+      "subtopic": "short_term_disability",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to know if acupuncture is covered by the company's health plan.",
+      "topic": "hr_benefits",
+      "subtopic": "alternative_therapy_coverage",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User checked the details on health savings account (HSA) contributions on March 1st.",
+      "topic": "hr_benefits",
+      "subtopic": "hsa_contributions",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the process for adding a new dependent to her health insurance.",
+      "topic": "hr_benefits",
+      "subtopic": "adding_dependents",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested the summary plan description for the 401k retirement plan.",
+      "topic": "hr_benefits",
+      "subtopic": "401k_plan",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about life insurance options available through the company.",
+      "topic": "hr_benefits",
+      "subtopic": "life_insurance",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needed help finding the form to update her beneficiaries.",
+      "topic": "hr_benefits",
+      "subtopic": "beneficiary_update",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the Employee Assistance Program (EAP) benefits.",
+      "topic": "hr_benefits",
+      "subtopic": "eap_benefits",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User checked if fertility treatments are covered under the health plan.",
+      "topic": "hr_benefits",
+      "subtopic": "fertility_coverage",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if the company offers any pet insurance options.",
+      "topic": "hr_benefits",
+      "subtopic": "pet_insurance",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to know about the company's policy on parental leave.",
+      "topic": "hr_benefits",
+      "subtopic": "parental_leave",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the deadline for open enrollment this year.",
+      "topic": "hr_benefits",
+      "subtopic": "open_enrollment_deadline",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the cost of adding her spouse to her dental plan.",
+      "topic": "hr_benefits",
+      "subtopic": "dental_coverage_cost",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User was curious about long term care insurance options.",
+      "topic": "hr_benefits",
+      "subtopic": "long_term_care",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if weight loss programs are covered by their healthcare.",
+      "topic": "hr_benefits",
+      "subtopic": "weight_loss_programs",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the process for filing a medical claim.",
+      "topic": "hr_benefits",
+      "subtopic": "medical_claim_process",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about flexible spending account (FSA) contribution limits.",
+      "topic": "hr_benefits",
+      "subtopic": "fsa_limits",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested a copy of the vision benefits brochure.",
+      "topic": "hr_benefits",
+      "subtopic": "vision_coverage",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to understand the details of the company's stock options.",
+      "topic": "hr_benefits",
+      "subtopic": "stock_options",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about tuition reimbursement programs.",
+      "topic": "hr_benefits",
+      "subtopic": "tuition_reimbursement",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the maximum amount that can be contributed to the HSA.",
+      "topic": "hr_benefits",
+      "subtopic": "hsa_limits",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to understand the vesting schedule for the 401k match.",
+      "topic": "hr_benefits",
+      "subtopic": "401k_vesting",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the availability of dependent care FSA.",
+      "topic": "hr_benefits",
+      "subtopic": "dependent_care_fsa",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to know if LASIK eye surgery is covered by vision insurance.",
+      "topic": "hr_benefits",
+      "subtopic": "lasik_coverage",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the process of COBRA if she leaves the company.",
+      "topic": "hr_benefits",
+      "subtopic": "cobra_coverage",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about employee discounts offered by the company.",
+      "topic": "hr_benefits",
+      "subtopic": "employee_discounts",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's wellness program benefits.",
+      "topic": "hr_benefits",
+      "subtopic": "wellness_program",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to understand how the company's bonus structure works.",
+      "topic": "hr_benefits",
+      "subtopic": "bonus_structure",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about eligibility for sabbatical leave.",
+      "topic": "hr_benefits",
+      "subtopic": "sabbatical_leave",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested the contact information for the benefits administrator.",
+      "topic": "hr_benefits",
+      "subtopic": "benefits_administrator",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the possibility of a health insurance audit.",
+      "topic": "hr_benefits",
+      "subtopic": "health_insurance_audit",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked whether domestic partners are covered under the health insurance plan.",
+      "topic": "hr_benefits",
+      "subtopic": "domestic_partner_coverage",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User was concerned that she could not find her medical records.",
+      "topic": "hr_benefits",
+      "subtopic": "medical_records",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if mental health services are covered.",
+      "topic": "hr_benefits",
+      "subtopic": "mental_health_coverage",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to know if there are any resources for stress management.",
+      "topic": "hr_benefits",
+      "subtopic": "stress_management",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the rules for carrying over unused FSA funds.",
+      "topic": "hr_benefits",
+      "subtopic": "fsa_rollover",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the coverage for emergency medical transportation.",
+      "topic": "hr_benefits",
+      "subtopic": "emergency_transportation",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the benefits for retired employees.",
+      "topic": "hr_benefits",
+      "subtopic": "retiree_benefits",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to find out about resources for elder care.",
+      "topic": "hr_benefits",
+      "subtopic": "elder_care_resources",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if the company offered resources for adoption assistance.",
+      "topic": "hr_benefits",
+      "subtopic": "adoption_assistance",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about coverage for gender affirming care.",
+      "topic": "hr_benefits",
+      "subtopic": "gender_affirming_care",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about benefits for part-time employees.",
+      "topic": "hr_benefits",
+      "subtopic": "part_time_benefits",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to confirm whether the company offers employee stock purchase plan.",
+      "topic": "hr_benefits",
+      "subtopic": "employee_stock_purchase",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested information on how to file a workers compensation claim.",
+      "topic": "hr_benefits",
+      "subtopic": "workers_compensation",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the policy for bereavement leave.",
+      "topic": "hr_benefits",
+      "subtopic": "bereavement_leave",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the availability of telemedicine services.",
+      "topic": "hr_benefits",
+      "subtopic": "telemedicine",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about resources for financial planning.",
+      "topic": "hr_benefits",
+      "subtopic": "financial_planning",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to understand the difference between HMO and PPO plans.",
+      "topic": "hr_benefits",
+      "subtopic": "hmo_ppo",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User had trouble connecting to the VPN on her new Macbook Air last week.",
+      "topic": "it_support",
+      "subtopic": "vpn_issues",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers to troubleshoot IT issues herself before escalating to a technician.",
+      "topic": "it_support",
+      "subtopic": "troubleshooting_preference",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested help setting up a new printer (HP LaserJet Pro M15w) on her home network on 2024-03-01.",
+      "topic": "it_support",
+      "subtopic": "printer_setup",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User's monitor flickered intermittently on 2024-02-22. Rebooting fixed it.",
+      "topic": "it_support",
+      "subtopic": "monitor_issues",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User mentioned her company-issued laptop (Dell XPS 13) is running slow.",
+      "topic": "it_support",
+      "subtopic": "laptop_performance",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needs help installing Adobe Creative Suite on a new computer.",
+      "topic": "it_support",
+      "subtopic": "software_installation",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the process for returning a malfunctioning mouse on 2024-01-10.",
+      "topic": "it_support",
+      "subtopic": "hardware_return",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needed instructions for clearing her browser cache in Chrome.",
+      "topic": "it_support",
+      "subtopic": "browser_issues",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asks how to unlock her account when she forgets her password.",
+      "topic": "it_support",
+      "subtopic": "password_reset",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User was locked out of her account due to too many failed login attempts on 2024-03-10.",
+      "topic": "it_support",
+      "subtopic": "account_lockout",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needed help configuring her email (Outlook) on her smartphone (iPhone 13) on 2023-12-01.",
+      "topic": "it_support",
+      "subtopic": "email_setup",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User reported issues with accessing shared drives on the network. Fixed by IT.",
+      "topic": "it_support",
+      "subtopic": "network_drive_access",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to know if the company provides support for personal devices.",
+      "topic": "it_support",
+      "subtopic": "device_support_policy",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User complained about the slow internet speed in her home office.",
+      "topic": "it_support",
+      "subtopic": "internet_speed",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked for recommendations for noise-canceling headphones compatible with Microsoft Teams.",
+      "topic": "it_support",
+      "subtopic": "headphone_recommendation",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the company's policy on using personal software on company devices.",
+      "topic": "it_support",
+      "subtopic": "software_policy",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needed help connecting to the office Wi-Fi with her iPad on 2024-02-15.",
+      "topic": "it_support",
+      "subtopic": "wifi_connection",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User reported that her antivirus software (McAfee) flagged a suspicious file.",
+      "topic": "it_support",
+      "subtopic": "antivirus_alert",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the steps for backing up her important files to the company server.",
+      "topic": "it_support",
+      "subtopic": "data_backup",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needs assistance recovering a deleted file from her desktop.",
+      "topic": "it_support",
+      "subtopic": "file_recovery",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User's computer crashed while working on a presentation on 2024-01-28. IT recovered most of the file.",
+      "topic": "it_support",
+      "subtopic": "computer_crash",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to know how to disable automatic updates on her Windows 10 machine.",
+      "topic": "it_support",
+      "subtopic": "automatic_updates",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about getting a replacement for her broken keyboard (Logitech MK270).",
+      "topic": "it_support",
+      "subtopic": "hardware_replacement",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User experienced issues with Microsoft Teams crashing during video calls on 2024-03-05.",
+      "topic": "it_support",
+      "subtopic": "teams_issues",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needed help setting up a dual monitor configuration on her desk.",
+      "topic": "it_support",
+      "subtopic": "dual_monitor_setup",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested information on the company's data security protocols.",
+      "topic": "it_support",
+      "subtopic": "data_security",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User was having trouble sharing a large file via email. Suggested using OneDrive.",
+      "topic": "it_support",
+      "subtopic": "file_sharing",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User accidentally spilled coffee on her keyboard and needs a replacement.",
+      "topic": "it_support",
+      "subtopic": "hardware_damage",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked for instructions on how to use the screen sharing feature in Zoom.",
+      "topic": "it_support",
+      "subtopic": "screen_sharing",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is getting a new work phone (iPhone 15) and needs help transferring data.",
+      "topic": "it_support",
+      "subtopic": "phone_setup",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User's VPN connection keeps dropping intermittently. IT is investigating.",
+      "topic": "it_support",
+      "subtopic": "vpn_issues",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers step-by-step instructions for resolving technical issues.",
+      "topic": "it_support",
+      "subtopic": "troubleshooting_preference",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about installing a new printer driver for her Brother printer.",
+      "topic": "it_support",
+      "subtopic": "printer_setup",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User reported her monitor displaying a blue screen on 2024-02-25.",
+      "topic": "it_support",
+      "subtopic": "monitor_issues",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User complained that her Dell laptop is overheating.",
+      "topic": "it_support",
+      "subtopic": "laptop_performance",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needs admin rights to install specific software.",
+      "topic": "it_support",
+      "subtopic": "software_installation",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User returned a defective headset on 2024-01-12. Replacement was issued.",
+      "topic": "it_support",
+      "subtopic": "hardware_return",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needed instructions for clearing cookies in Firefox.",
+      "topic": "it_support",
+      "subtopic": "browser_issues",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the password complexity requirements.",
+      "topic": "it_support",
+      "subtopic": "password_reset",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User was temporarily locked out on 2024-03-12 and needed help unlocking.",
+      "topic": "it_support",
+      "subtopic": "account_lockout",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wants to sync her work email to her personal Android phone.",
+      "topic": "it_support",
+      "subtopic": "email_setup",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User had problems accessing files on the S drive last month.",
+      "topic": "it_support",
+      "subtopic": "network_drive_access",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wondered if she could use her own preferred antivirus on her laptop.",
+      "topic": "it_support",
+      "subtopic": "device_support_policy",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User mentioned her internet speed being below 10 Mbps.",
+      "topic": "it_support",
+      "subtopic": "internet_speed",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted recommendations for headsets that work well for transcription.",
+      "topic": "it_support",
+      "subtopic": "headphone_recommendation",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needed clarification on acceptable use policy for internet browsing.",
+      "topic": "it_support",
+      "subtopic": "software_policy",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User couldn't get her iPad to connect to the guest network on 2024-02-17.",
+      "topic": "it_support",
+      "subtopic": "wifi_connection",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User reported that her malware scan detected several tracking cookies.",
+      "topic": "it_support",
+      "subtopic": "antivirus_alert",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about encrypting her hard drive on her company laptop.",
+      "topic": "it_support",
+      "subtopic": "data_backup",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User accidentally deleted a folder on her desktop and needs help retrieving it.",
+      "topic": "it_support",
+      "subtopic": "file_recovery",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about travel expense limits for a conference in Chicago on Oct 27.",
+      "topic": "expenses_travel",
+      "subtopic": "expense_limits",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers booking flights with United whenever possible.",
+      "topic": "expenses_travel",
+      "subtopic": "flight_preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about hotel options near McCormick Place for the Chicago conference.",
+      "topic": "expenses_travel",
+      "subtopic": "hotel_preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User submitted an expense report on August 10th for a client dinner at 'The Grill'",
+      "topic": "expenses_travel",
+      "subtopic": "expense_reports",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if travel insurance is automatically included when booking through the company portal.",
+      "topic": "expenses_travel",
+      "subtopic": "travel_insurance",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is attending the Marketing Summit in San Francisco in November.",
+      "topic": "expenses_travel",
+      "subtopic": "upcoming_travel",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needs to understand the process for claiming mileage reimbursement.",
+      "topic": "expenses_travel",
+      "subtopic": "mileage_reimbursement",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers staying at Hyatt hotels when traveling for work.",
+      "topic": "expenses_travel",
+      "subtopic": "hotel_preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User typically books flights 2-3 weeks in advance for better rates.",
+      "topic": "expenses_travel",
+      "subtopic": "booking_habits",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User was confused about the per diem rate for meals in New York City.",
+      "topic": "expenses_travel",
+      "subtopic": "per_diem",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested clarification on what qualifies as a 'business expense'.",
+      "topic": "expenses_travel",
+      "subtopic": "expense_definitions",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wants to know if they can expense the cost of a checked bag.",
+      "topic": "expenses_travel",
+      "subtopic": "baggage_fees",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the deadline for submitting monthly expense reports.",
+      "topic": "expenses_travel",
+      "subtopic": "expense_deadlines",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User had trouble uploading receipts to the expense report system last month.",
+      "topic": "expenses_travel",
+      "subtopic": "expense_system_issues",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User frequently travels to the company's New York office.",
+      "topic": "expenses_travel",
+      "subtopic": "frequent_destinations",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the policy on expensing client entertainment.",
+      "topic": "expenses_travel",
+      "subtopic": "client_entertainment",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers aisle seats on flights longer than 2 hours.",
+      "topic": "expenses_travel",
+      "subtopic": "seat_preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the company's policy on renting cars for business travel.",
+      "topic": "expenses_travel",
+      "subtopic": "car_rental",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User mentioned a previous issue with a delayed reimbursement in May.",
+      "topic": "expenses_travel",
+      "subtopic": "reimbursement_issues",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is trying to find a direct flight from Chicago to San Francisco.",
+      "topic": "expenses_travel",
+      "subtopic": "flight_preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked for help finding the form to request pre-approval for travel expenses.",
+      "topic": "expenses_travel",
+      "subtopic": "pre_approval",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is concerned about staying within the allocated budget for the upcoming conference.",
+      "topic": "expenses_travel",
+      "subtopic": "budget_concerns",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User has a Delta Skymiles account.",
+      "topic": "expenses_travel",
+      "subtopic": "loyalty_programs",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needs to understand how to handle currency conversion on expense reports.",
+      "topic": "expenses_travel",
+      "subtopic": "currency_conversion",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers using Uber for local transportation when traveling.",
+      "topic": "expenses_travel",
+      "subtopic": "transportation_preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if it's possible to get a corporate discount at Marriott hotels.",
+      "topic": "expenses_travel",
+      "subtopic": "hotel_discounts",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User had questions about the definition of 'reasonable and necessary' expenses.",
+      "topic": "expenses_travel",
+      "subtopic": "expense_definitions",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers submitting expense reports on Fridays.",
+      "topic": "expenses_travel",
+      "subtopic": "submission_habits",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needed help understanding the policy for booking travel for interns.",
+      "topic": "expenses_travel",
+      "subtopic": "travel_for_interns",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the process for handling lost receipts.",
+      "topic": "expenses_travel",
+      "subtopic": "lost_receipts",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to know if there's a preferred travel agency the company uses.",
+      "topic": "expenses_travel",
+      "subtopic": "travel_agency",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is attending a workshop on 'Effective Marketing Strategies' in November.",
+      "topic": "expenses_travel",
+      "subtopic": "conference_details",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the policy on expensing meals while working overtime.",
+      "topic": "expenses_travel",
+      "subtopic": "overtime_meals",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers booking hotels with free breakfast.",
+      "topic": "expenses_travel",
+      "subtopic": "hotel_preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User was annoyed that a previous expense report was rejected due to a missing receipt.",
+      "topic": "expenses_travel",
+      "subtopic": "rejected_reports",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needs to know how to update their travel profile in the company system.",
+      "topic": "expenses_travel",
+      "subtopic": "profile_updates",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if they can expense the cost of Wi-Fi on a flight.",
+      "topic": "expenses_travel",
+      "subtopic": "wifi_expenses",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User typically submits expense reports with less than 5 items.",
+      "topic": "expenses_travel",
+      "subtopic": "report_size",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needed help finding the contact information for the travel department.",
+      "topic": "expenses_travel",
+      "subtopic": "travel_department",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the policy on expensing gifts for clients.",
+      "topic": "expenses_travel",
+      "subtopic": "client_gifts",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers using the company's expense report app on their phone.",
+      "topic": "expenses_travel",
+      "subtopic": "app_preference",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to know if there's a limit on the amount that can be spent on a client dinner.",
+      "topic": "expenses_travel",
+      "subtopic": "dinner_limits",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the policy on expensing dry cleaning while traveling.",
+      "topic": "expenses_travel",
+      "subtopic": "dry_cleaning",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers booking rental cars through Avis.",
+      "topic": "expenses_travel",
+      "subtopic": "car_rental_preference",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needed clarification on how to report foreign transaction fees.",
+      "topic": "expenses_travel",
+      "subtopic": "foreign_transaction_fees",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the procedure for requesting a travel advance.",
+      "topic": "expenses_travel",
+      "subtopic": "travel_advance",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is trying to minimize travel costs to stay within the department's budget.",
+      "topic": "expenses_travel",
+      "subtopic": "budget_awareness",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if they can expense the cost of parking at the airport.",
+      "topic": "expenses_travel",
+      "subtopic": "parking_expenses",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers booking flights that arrive before 5 PM.",
+      "topic": "expenses_travel",
+      "subtopic": "arrival_time",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User submitted an expense report for $150 on July 12 for the client 'Acme Corp'.",
+      "topic": "expenses_travel",
+      "subtopic": "expense_reports",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers meetings scheduled in the afternoon, if possible.",
+      "topic": "meetings_calendar",
+      "subtopic": "preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested a meeting with the marketing team on July 10th to discuss Q3 strategy.",
+      "topic": "meetings_calendar",
+      "subtopic": "scheduling",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User had a conflict with a recurring meeting on Tuesdays at 2 PM.",
+      "topic": "meetings_calendar",
+      "subtopic": "conflicts",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the maximum number of attendees for conference room B.",
+      "topic": "meetings_calendar",
+      "subtopic": "resources",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User usually checks her calendar first thing in the morning.",
+      "topic": "meetings_calendar",
+      "subtopic": "behavior",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User mentioned she prefers Zoom for virtual meetings.",
+      "topic": "meetings_calendar",
+      "subtopic": "preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about integrating her personal Google Calendar with the company calendar.",
+      "topic": "meetings_calendar",
+      "subtopic": "integration",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if the meeting scheduler could automatically propose alternative times when there are conflicts.",
+      "topic": "meetings_calendar",
+      "subtopic": "feature_request",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wants to avoid scheduling meetings during her lunch break (12:30-1:30 PM).",
+      "topic": "meetings_calendar",
+      "subtopic": "preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested a reminder for a meeting with John Doe on August 1st.",
+      "topic": "meetings_calendar",
+      "subtopic": "reminders",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked how to invite external participants to a company meeting.",
+      "topic": "meetings_calendar",
+      "subtopic": "how_to",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User complained about receiving too many overlapping meeting invites.",
+      "topic": "meetings_calendar",
+      "subtopic": "complaint",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needed help changing the time zone for a meeting invite.",
+      "topic": "meetings_calendar",
+      "subtopic": "technical_support",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if there's a limit to the length of a meeting description.",
+      "topic": "meetings_calendar",
+      "subtopic": "limitations",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the company policy on mandatory meeting attendance.",
+      "topic": "meetings_calendar",
+      "subtopic": "policy",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User mentioned she often forgets to set reminders for meetings.",
+      "topic": "meetings_calendar",
+      "subtopic": "habit",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User was looking for a way to automatically decline recurring meetings when she's on vacation.",
+      "topic": "meetings_calendar",
+      "subtopic": "feature_request",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User scheduled a meeting with the CEO, Ms. Johnson, for July 25th.",
+      "topic": "meetings_calendar",
+      "subtopic": "scheduling",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested assistance cancelling a meeting that was double-booked.",
+      "topic": "meetings_calendar",
+      "subtopic": "cancellation",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if the AI assistant could learn her preferred meeting durations.",
+      "topic": "meetings_calendar",
+      "subtopic": "learning",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wants to receive a daily summary of her upcoming meetings.",
+      "topic": "meetings_calendar",
+      "subtopic": "preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User often schedules meetings to follow up on project milestones.",
+      "topic": "meetings_calendar",
+      "subtopic": "context",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested a meeting agenda template.",
+      "topic": "meetings_calendar",
+      "subtopic": "template",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User had trouble finding the link to join a Teams meeting.",
+      "topic": "meetings_calendar",
+      "subtopic": "technical_support",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers to receive meeting updates via email.",
+      "topic": "meetings_calendar",
+      "subtopic": "preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if she could block off specific times in her calendar for focused work.",
+      "topic": "meetings_calendar",
+      "subtopic": "feature_request",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User was frustrated with a recent meeting that lacked a clear agenda.",
+      "topic": "meetings_calendar",
+      "subtopic": "complaint",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User scheduled a team-building activity on Friday, July 14th.",
+      "topic": "meetings_calendar",
+      "subtopic": "scheduling",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needed help finding the meeting recording from last week's presentation.",
+      "topic": "meetings_calendar",
+      "subtopic": "resources",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about best practices for running effective virtual meetings.",
+      "topic": "meetings_calendar",
+      "subtopic": "how_to",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers short, focused meetings over longer ones.",
+      "topic": "meetings_calendar",
+      "subtopic": "preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wants the AI to prioritize meetings with external clients.",
+      "topic": "meetings_calendar",
+      "subtopic": "prioritization",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the company's policy on using personal devices for work meetings.",
+      "topic": "meetings_calendar",
+      "subtopic": "policy",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested a notification when someone accepts or declines a meeting invitation.",
+      "topic": "meetings_calendar",
+      "subtopic": "notification",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User often schedules one-on-one meetings with her direct reports.",
+      "topic": "meetings_calendar",
+      "subtopic": "behavior",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User was looking for a way to easily share her calendar availability with others.",
+      "topic": "meetings_calendar",
+      "subtopic": "feature_request",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User scheduled a meeting to discuss performance reviews with her team.",
+      "topic": "meetings_calendar",
+      "subtopic": "scheduling",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User had trouble finding a suitable meeting room with video conferencing equipment.",
+      "topic": "meetings_calendar",
+      "subtopic": "resources",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if the AI could automatically suggest relevant documents for upcoming meetings.",
+      "topic": "meetings_calendar",
+      "subtopic": "feature_request",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User mentioned she prefers using Google Meet instead of Zoom for smaller meetings.",
+      "topic": "meetings_calendar",
+      "subtopic": "preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked for a list of all upcoming meetings related to Project Phoenix.",
+      "topic": "meetings_calendar",
+      "subtopic": "search",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User complained about the meeting room acoustics in conference room C.",
+      "topic": "meetings_calendar",
+      "subtopic": "complaint",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers to have at least 30 minutes between back-to-back meetings.",
+      "topic": "meetings_calendar",
+      "subtopic": "preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User scheduled a meeting to onboard a new team member on August 8th.",
+      "topic": "meetings_calendar",
+      "subtopic": "scheduling",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested a reminder for a meeting with legal department at 3 PM.",
+      "topic": "meetings_calendar",
+      "subtopic": "reminders",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User needs to schedule a recurring weekly meeting for project updates.",
+      "topic": "meetings_calendar",
+      "subtopic": "scheduling",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers to review meeting materials at least one day in advance.",
+      "topic": "meetings_calendar",
+      "subtopic": "preferences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wants to know how to set up a poll during a virtual meeting.",
+      "topic": "meetings_calendar",
+      "subtopic": "how_to",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's policy on recording meetings.",
+      "topic": "meetings_calendar",
+      "subtopic": "policy",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User often schedules brainstorming sessions on Fridays.",
+      "topic": "meetings_calendar",
+      "subtopic": "behavior",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the remote work policy on January 20th after the company-wide email.",
+      "topic": "company_policies",
+      "subtopic": "remote_work",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about clarification on the dress code policy for client meetings last Tuesday.",
+      "topic": "company_policies",
+      "subtopic": "dress_code",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked for details about the employee referral bonus policy on February 5th.",
+      "topic": "company_policies",
+      "subtopic": "referral_bonus",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested information about the company's policy on using personal devices for work on March 1st.",
+      "topic": "company_policies",
+      "subtopic": "personal_devices",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to know if she could use her husband's computer if needed.",
+      "topic": "company_policies",
+      "subtopic": "personal_devices",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the policy regarding social media usage during work hours on April 12th.",
+      "topic": "company_policies",
+      "subtopic": "social_media",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User specifically asked if posting on LinkedIn during lunch was okay.",
+      "topic": "company_policies",
+      "subtopic": "social_media",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User sought clarification on the procedure for reporting harassment in the workplace on April 28th.",
+      "topic": "company_policies",
+      "subtopic": "harassment_reporting",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked how to report an incident anonymously.",
+      "topic": "company_policies",
+      "subtopic": "harassment_reporting",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the bereavement leave policy after a family member passed away on May 10th.",
+      "topic": "company_policies",
+      "subtopic": "bereavement_leave",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wanted to know if bereavement leave included distant relatives.",
+      "topic": "company_policies",
+      "subtopic": "bereavement_leave",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's policy on political activities outside of work on May 22nd.",
+      "topic": "company_policies",
+      "subtopic": "political_activities",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if she could put a political sign in her yard.",
+      "topic": "company_policies",
+      "subtopic": "political_activities",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested information about the policy on overtime pay for salaried employees on June 3rd.",
+      "topic": "company_policies",
+      "subtopic": "overtime_pay",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired if working on the weekends counts as overtime.",
+      "topic": "company_policies",
+      "subtopic": "overtime_pay",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's policy on accepting gifts from clients on June 15th.",
+      "topic": "company_policies",
+      "subtopic": "gifts_from_clients",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if she could accept a small gift card.",
+      "topic": "company_policies",
+      "subtopic": "gifts_from_clients",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User sought clarification on the guidelines for using company resources for personal tasks on June 28th.",
+      "topic": "company_policies",
+      "subtopic": "company_resources",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if she could print a document for her daughter's school project.",
+      "topic": "company_policies",
+      "subtopic": "company_resources",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the policy on data privacy and security on July 8th.",
+      "topic": "company_policies",
+      "subtopic": "data_privacy",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked what types of data are covered.",
+      "topic": "company_policies",
+      "subtopic": "data_privacy",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's policy on employee background checks on July 20th.",
+      "topic": "company_policies",
+      "subtopic": "background_checks",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if they re-run these checks periodically.",
+      "topic": "company_policies",
+      "subtopic": "background_checks",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested information about the policy on employee training and development on August 1st.",
+      "topic": "company_policies",
+      "subtopic": "training_development",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User specifically mentioned wanting to take a project management course.",
+      "topic": "company_policies",
+      "subtopic": "training_development",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's policy on intellectual property rights on August 12th.",
+      "topic": "company_policies",
+      "subtopic": "intellectual_property",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked who owns the work she creates on company time.",
+      "topic": "company_policies",
+      "subtopic": "intellectual_property",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User sought clarification on the process for requesting a leave of absence on August 24th.",
+      "topic": "company_policies",
+      "subtopic": "leave_of_absence",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if she needed to use PTO for a family emergency.",
+      "topic": "company_policies",
+      "subtopic": "leave_of_absence",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the company's policy on workplace safety and emergency procedures on September 5th.",
+      "topic": "company_policies",
+      "subtopic": "workplace_safety",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the evacuation plan for the building.",
+      "topic": "company_policies",
+      "subtopic": "workplace_safety",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's policy on performance reviews on September 17th.",
+      "topic": "company_policies",
+      "subtopic": "performance_reviews",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked what the timeline is for the next performance review.",
+      "topic": "company_policies",
+      "subtopic": "performance_reviews",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested information about the policy on employee termination and resignation on September 29th.",
+      "topic": "company_policies",
+      "subtopic": "termination_resignation",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the steps for resignation.",
+      "topic": "company_policies",
+      "subtopic": "termination_resignation",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the policy on travel reimbursement after her trip to Chicago in June.",
+      "topic": "company_policies",
+      "subtopic": "travel_reimbursement",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the policy of the use of company vehicles for personal use on October 12th.",
+      "topic": "company_policies",
+      "subtopic": "company_vehicles",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if she could borrow one for a weekend trip.",
+      "topic": "company_policies",
+      "subtopic": "company_vehicles",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the policy on outside employment on October 24th.",
+      "topic": "company_policies",
+      "subtopic": "outside_employment",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if she could do freelance work on the side.",
+      "topic": "company_policies",
+      "subtopic": "outside_employment",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's policy on employee privacy on November 5th.",
+      "topic": "company_policies",
+      "subtopic": "employee_privacy",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked who can see her personnel file.",
+      "topic": "company_policies",
+      "subtopic": "employee_privacy",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested information about the policy on workplace accommodations for disabilities on November 17th.",
+      "topic": "company_policies",
+      "subtopic": "disabilities_accommodations",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked what types of accommodations are available.",
+      "topic": "company_policies",
+      "subtopic": "disabilities_accommodations",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's policy on employee recognition programs on November 29th.",
+      "topic": "company_policies",
+      "subtopic": "employee_recognition",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked what types of recognition are offered.",
+      "topic": "company_policies",
+      "subtopic": "employee_recognition",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the policy on using generative AI tools.",
+      "topic": "company_policies",
+      "subtopic": "generative_ai_use",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if it was ok to use ChatGPT for brainstorming.",
+      "topic": "company_policies",
+      "subtopic": "generative_ai_use",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the policy on security badge use.",
+      "topic": "company_policies",
+      "subtopic": "security_badges",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked if a family member could use their security badge.",
+      "topic": "company_policies",
+      "subtopic": "security_badges",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about team performance review templates on July 10th.",
+      "topic": "team_management",
+      "subtopic": "performance_reviews",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is managing a team of 5 marketing specialists.",
+      "topic": "team_management",
+      "subtopic": "team_size",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User mentioned they prefer team meetings to be no longer than 30 minutes.",
+      "topic": "team_management",
+      "subtopic": "meeting_length",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the process for submitting a request for a new team member on June 22nd.",
+      "topic": "team_management",
+      "subtopic": "hiring",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User stated they are trying to improve team collaboration.",
+      "topic": "team_management",
+      "subtopic": "collaboration",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested information on conflict resolution strategies within the team.",
+      "topic": "team_management",
+      "subtopic": "conflict_resolution",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the budget allocated for team training this quarter.",
+      "topic": "team_management",
+      "subtopic": "budget",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers asynchronous communication for status updates.",
+      "topic": "team_management",
+      "subtopic": "communication_style",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's policy on remote work for team members.",
+      "topic": "team_management",
+      "subtopic": "remote_work",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is looking for ways to motivate their team.",
+      "topic": "team_management",
+      "subtopic": "motivation",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about leadership development programs for team leads.",
+      "topic": "team_management",
+      "subtopic": "leadership",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User mentioned a team member, John, who is struggling with time management.",
+      "topic": "team_management",
+      "subtopic": "time_management",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested a copy of the team's communication guidelines.",
+      "topic": "team_management",
+      "subtopic": "communication",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the deadline for submitting Q3 team goals.",
+      "topic": "team_management",
+      "subtopic": "goal_setting",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is interested in learning more about giving effective feedback.",
+      "topic": "team_management",
+      "subtopic": "feedback",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User had a question about the new performance management system on August 1st.",
+      "topic": "team_management",
+      "subtopic": "performance_management",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about resources for improving team morale.",
+      "topic": "team_management",
+      "subtopic": "morale",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is considering implementing a new project management tool for the team.",
+      "topic": "team_management",
+      "subtopic": "project_management",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wants to know the procedure for requesting a team-building event.",
+      "topic": "team_management",
+      "subtopic": "team_building",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about best practices for delegating tasks effectively.",
+      "topic": "team_management",
+      "subtopic": "delegation",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is exploring options for cross-training team members.",
+      "topic": "team_management",
+      "subtopic": "cross_training",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User mentioned a difficulty in tracking team progress on projects.",
+      "topic": "team_management",
+      "subtopic": "project_tracking",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the policy regarding team member promotions.",
+      "topic": "team_management",
+      "subtopic": "promotions",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is looking for strategies to manage a diverse team.",
+      "topic": "team_management",
+      "subtopic": "diversity",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the company's mentorship program for new team members.",
+      "topic": "team_management",
+      "subtopic": "mentorship",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User mentioned a concern about a potential conflict between two team members.",
+      "topic": "team_management",
+      "subtopic": "conflict",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the process for handling employee complaints within the team.",
+      "topic": "team_management",
+      "subtopic": "complaints",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is interested in learning about strategies for building trust within the team.",
+      "topic": "team_management",
+      "subtopic": "trust",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested information on how to conduct effective one-on-one meetings with team members.",
+      "topic": "team_management",
+      "subtopic": "one_on_one",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about resources for helping team members develop their skills.",
+      "topic": "team_management",
+      "subtopic": "skill_development",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User stated that they want to reduce burnout within the team.",
+      "topic": "team_management",
+      "subtopic": "burnout",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is looking for ways to improve the team's problem-solving abilities.",
+      "topic": "team_management",
+      "subtopic": "problem_solving",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's policy on overtime for team members.",
+      "topic": "team_management",
+      "subtopic": "overtime",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is considering implementing a new system for recognizing team member achievements.",
+      "topic": "team_management",
+      "subtopic": "recognition",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about resources for improving the team's creativity and innovation.",
+      "topic": "team_management",
+      "subtopic": "innovation",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is looking for ways to foster a more positive team culture.",
+      "topic": "team_management",
+      "subtopic": "culture",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User inquired about the process for terminating a team member's employment.",
+      "topic": "team_management",
+      "subtopic": "termination",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User mentioned that they are having difficulty with a particularly resistant team member.",
+      "topic": "team_management",
+      "subtopic": "resistance",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's policy on employee absences and sick leave.",
+      "topic": "team_management",
+      "subtopic": "absences",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User requested information on how to handle sensitive employee information.",
+      "topic": "team_management",
+      "subtopic": "privacy",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the best way to provide constructive criticism.",
+      "topic": "team_management",
+      "subtopic": "criticism",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is struggling to manage workload distribution across the team.",
+      "topic": "team_management",
+      "subtopic": "workload",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wants to learn about different leadership styles and their effectiveness.",
+      "topic": "team_management",
+      "subtopic": "leadership_styles",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about the company's resources on unconscious bias training.",
+      "topic": "team_management",
+      "subtopic": "bias",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is looking for new strategies to lead the team better. Talked about it Aug 15th.",
+      "topic": "team_management",
+      "subtopic": "leadership_strategies",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User mentioned Sarah from the team is having performance issues",
+      "topic": "team_management",
+      "subtopic": "performance_issues",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User prefers to give feedback weekly.",
+      "topic": "team_management",
+      "subtopic": "feedback_frequency",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User is looking for techniques to resolve conflict better.",
+      "topic": "team_management",
+      "subtopic": "conflict_resolution_strategies",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User wants to know about resources to manage remote teams.",
+      "topic": "team_management",
+      "subtopic": "remote_team_management",
+      "persona_id": "enterprise_employee"
+    },
+    {
+      "content": "User asked about employee assistance programs on June 1st.",
+      "topic": "team_management",
+      "subtopic": "employee_assistance_programs",
+      "persona_id": "enterprise_employee"
+    }
+  ]
+}

@@ -1,0 +1,1812 @@
+{
+  "persona": {
+    "id": "student",
+    "name": "Jamie Park",
+    "role": "College Student",
+    "description": "Undergraduate student using AI tutor for homework help, exam prep, writing assistance, and learning new concepts across multiple subjects.",
+    "topics": [
+      "math_homework",
+      "writing_essays",
+      "exam_prep",
+      "research_projects",
+      "study_habits",
+      "career_planning"
+    ]
+  },
+  "memories": [
+    {
+      "content": "User, Jamie Park, prefers step-by-step solutions for math problems.",
+      "topic": "math_homework",
+      "subtopic": "problem_solving_style",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie struggles with calculus integration problems specifically.",
+      "topic": "math_homework",
+      "subtopic": "calculus",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked for help with a linear algebra problem set due October 27th.",
+      "topic": "math_homework",
+      "subtopic": "linear_algebra_deadline",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they find word problems in statistics particularly challenging.",
+      "topic": "math_homework",
+      "subtopic": "statistics",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie prefers practice problems that include real-world applications.",
+      "topic": "math_homework",
+      "subtopic": "learning_preference",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie used the phrase \"really stuck\" when describing a differential equations problem.",
+      "topic": "math_homework",
+      "subtopic": "differential_equations",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked for clarification on the chain rule in calculus on November 5th.",
+      "topic": "math_homework",
+      "subtopic": "calculus_chain_rule",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie seems to have a good grasp of basic algebra concepts.",
+      "topic": "math_homework",
+      "subtopic": "algebra",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie requested help understanding Bayes' Theorem for a quiz.",
+      "topic": "math_homework",
+      "subtopic": "statistics",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie seemed relieved after understanding a particularly difficult statistics concept on hypothesis testing.",
+      "topic": "math_homework",
+      "subtopic": "statistics_hypothesis_testing",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said that they are studying for their midterm exam on Calculus on Dec 10th.",
+      "topic": "math_homework",
+      "subtopic": "calculus_midterm",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needs help understanding matrix operations in linear algebra.",
+      "topic": "math_homework",
+      "subtopic": "linear_algebra",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie found the explanation about confidence intervals useful; they mentioned it helped on a practice question.",
+      "topic": "math_homework",
+      "subtopic": "statistics",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie requested examples of applying derivatives on Nov 2nd.",
+      "topic": "math_homework",
+      "subtopic": "calculus_derivatives",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is using the textbook 'Calculus: Early Transcendentals' by James Stewart.",
+      "topic": "math_homework",
+      "subtopic": "calculus_textbook",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is using 'Linear Algebra and Its Applications' by David C. Lay.",
+      "topic": "math_homework",
+      "subtopic": "linear_algebra_textbook",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is using 'Probability and Statistics for Engineering and the Sciences' by Jay L. Devore.",
+      "topic": "math_homework",
+      "subtopic": "statistics_textbook",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie often asks for help with homework late at night, around 11 PM.",
+      "topic": "math_homework",
+      "subtopic": "study_time",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie appreciates visual aids, like graphs and charts, to understand concepts.",
+      "topic": "math_homework",
+      "subtopic": "learning_preference",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie was confused about the concept of limits in calculus.",
+      "topic": "math_homework",
+      "subtopic": "calculus_limits",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned a previous bad experience with a math tutor.",
+      "topic": "math_homework",
+      "subtopic": "past_experience",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie prefers working through practice problems rather than reading theoretical explanations.",
+      "topic": "math_homework",
+      "subtopic": "learning_style",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wanted more examples of statistical hypothesis testing on Nov 18th.",
+      "topic": "math_homework",
+      "subtopic": "statistics_examples",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked about the application of linear transformations in computer graphics.",
+      "topic": "math_homework",
+      "subtopic": "linear_algebra_applications",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they are aiming for an A in their math course.",
+      "topic": "math_homework",
+      "subtopic": "academic_goal",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needed help with a complex number calculation on October 19th.",
+      "topic": "math_homework",
+      "subtopic": "algebra_complex_numbers",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie struggles with remembering the trigonometric identities required for calculus.",
+      "topic": "math_homework",
+      "subtopic": "calculus_trigonometry",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked for help with a probability distribution problem on Nov 2nd.",
+      "topic": "math_homework",
+      "subtopic": "statistics",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned they are part of a study group.",
+      "topic": "math_homework",
+      "subtopic": "study_habits",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked clarification about the definition of a vector space.",
+      "topic": "math_homework",
+      "subtopic": "linear_algebra",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie consistently struggles with word problems involving geometry.",
+      "topic": "math_homework",
+      "subtopic": "geometry",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie found a particular Khan Academy video helpful for understanding derivatives on Nov 1st.",
+      "topic": "math_homework",
+      "subtopic": "calculus",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked for practice problems involving the central limit theorem on Nov 8th.",
+      "topic": "math_homework",
+      "subtopic": "statistics",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie requested help with solving systems of linear equations.",
+      "topic": "math_homework",
+      "subtopic": "linear_algebra",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned that the professor, Dr. Smith, is very strict about deadlines.",
+      "topic": "math_homework",
+      "subtopic": "course_context",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked for resources to improve their problem-solving speed on Dec 4th.",
+      "topic": "math_homework",
+      "subtopic": "problem_solving_skills",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needed help understanding the concept of eigenvectors and eigenvalues.",
+      "topic": "math_homework",
+      "subtopic": "linear_algebra",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked a question about related rates problems in calculus.",
+      "topic": "math_homework",
+      "subtopic": "calculus",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie requested help interpreting the results of a statistical test.",
+      "topic": "math_homework",
+      "subtopic": "statistics",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie seems unsure about the difference between permutations and combinations.",
+      "topic": "math_homework",
+      "subtopic": "statistics",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie was looking for information about using L'Hopital's Rule on Nov 11th.",
+      "topic": "math_homework",
+      "subtopic": "calculus",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants to understand real world applications of Markov Chains.",
+      "topic": "math_homework",
+      "subtopic": "linear_algebra",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked about the difference between a t-test and a z-test on Nov 15th.",
+      "topic": "math_homework",
+      "subtopic": "statistics",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they prefer using Wolfram Alpha for quick calculations.",
+      "topic": "math_homework",
+      "subtopic": "tools",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needed help visualizing a 3D surface in calculus 3.",
+      "topic": "math_homework",
+      "subtopic": "calculus",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie requested help with partial derivatives on Dec 1st.",
+      "topic": "math_homework",
+      "subtopic": "calculus_partial_derivatives",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needed help understanding double integrals.",
+      "topic": "math_homework",
+      "subtopic": "calculus_double_integrals",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needs to learn the difference between a dot product and a cross product on Nov 21st.",
+      "topic": "math_homework",
+      "subtopic": "linear_algebra",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked how to apply the Gram-Schmidt process to find an orthonormal basis.",
+      "topic": "math_homework",
+      "subtopic": "linear_algebra",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they want to improve their ability to recognize patterns in math problems.",
+      "topic": "math_homework",
+      "subtopic": "problem_solving",
+      "persona_id": "student"
+    },
+    {
+      "content": "User prefers essay outlines with 5 paragraphs.",
+      "topic": "writing_essays",
+      "subtopic": "essay_structure",
+      "persona_id": "student"
+    },
+    {
+      "content": "User struggled with thesis statements in their last essay on the American Revolution.",
+      "topic": "writing_essays",
+      "subtopic": "essay_writing",
+      "persona_id": "student"
+    },
+    {
+      "content": "User found the example essay on climate change particularly helpful.",
+      "topic": "writing_essays",
+      "subtopic": "essay_examples",
+      "persona_id": "student"
+    },
+    {
+      "content": "User needed help citing sources correctly using MLA format in their English 101 essay.",
+      "topic": "writing_essays",
+      "subtopic": "essay_formatting",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is working on an argumentative essay about the benefits of universal healthcare.",
+      "topic": "writing_essays",
+      "subtopic": "essay_topic",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for help brainstorming ideas for a persuasive essay on animal rights.",
+      "topic": "writing_essays",
+      "subtopic": "essay_brainstorming",
+      "persona_id": "student"
+    },
+    {
+      "content": "User prefers using Grammarly for essay proofreading after receiving feedback on their last essay.",
+      "topic": "writing_essays",
+      "subtopic": "essay_editing",
+      "persona_id": "student"
+    },
+    {
+      "content": "User requested assistance with writing a compare and contrast essay on two different economic systems.",
+      "topic": "writing_essays",
+      "subtopic": "essay_type",
+      "persona_id": "student"
+    },
+    {
+      "content": "User struggled with writing a strong conclusion paragraph in their history essay.",
+      "topic": "writing_essays",
+      "subtopic": "essay_writing",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for feedback on the introduction paragraph of their latest college application essay.",
+      "topic": "writing_essays",
+      "subtopic": "essay_feedback",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to improve their essay writing skills for scholarship applications.",
+      "topic": "writing_essays",
+      "subtopic": "essay_goals",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned that they find it difficult to stay focused while writing long essays.",
+      "topic": "writing_essays",
+      "subtopic": "essay_challenges",
+      "persona_id": "student"
+    },
+    {
+      "content": "User requested help with researching credible sources for their research essay.",
+      "topic": "writing_essays",
+      "subtopic": "essay_research",
+      "persona_id": "student"
+    },
+    {
+      "content": "User needs help structuring their essay on the effects of social media on teenagers.",
+      "topic": "writing_essays",
+      "subtopic": "essay_structure",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is writing an essay for Professor Miller's class.",
+      "topic": "writing_essays",
+      "subtopic": "essay_context",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is having trouble understanding the rubric for their upcoming essay assignment.",
+      "topic": "writing_essays",
+      "subtopic": "essay_understanding",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for examples of strong topic sentences for their essay.",
+      "topic": "writing_essays",
+      "subtopic": "essay_writing",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants help refining the argument in their political science essay.",
+      "topic": "writing_essays",
+      "subtopic": "essay_argument",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for tips on avoiding plagiarism in their essays.",
+      "topic": "writing_essays",
+      "subtopic": "essay_ethics",
+      "persona_id": "student"
+    },
+    {
+      "content": "User requested assistance with writing a reflective essay about their life experiences.",
+      "topic": "writing_essays",
+      "subtopic": "essay_type",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned they get nervous when submitting essays, and want to improve.",
+      "topic": "writing_essays",
+      "subtopic": "essay_anxiety",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants help writing about a specific quote in their essay",
+      "topic": "writing_essays",
+      "subtopic": "essay_quotes",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is writing an essay that's due next monday",
+      "topic": "writing_essays",
+      "subtopic": "essay_deadlines",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants help understanding the structure of an essay with multiple points",
+      "topic": "writing_essays",
+      "subtopic": "essay_structure",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned their current essay is graded 30% of their final grade",
+      "topic": "writing_essays",
+      "subtopic": "essay_importance",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for help on which tone to use in their essay",
+      "topic": "writing_essays",
+      "subtopic": "essay_tone",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned they would like an essay on 'the cold war'",
+      "topic": "writing_essays",
+      "subtopic": "essay_topic",
+      "persona_id": "student"
+    },
+    {
+      "content": "User struggled with writing introductions for an essay about 'the great depression'",
+      "topic": "writing_essays",
+      "subtopic": "essay_introduction",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is struggling with time management for an essay",
+      "topic": "writing_essays",
+      "subtopic": "essay_time",
+      "persona_id": "student"
+    },
+    {
+      "content": "User requested help finding an 'eye catching title' for an essay",
+      "topic": "writing_essays",
+      "subtopic": "essay_title",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants help formatting their essay in the Harvard format",
+      "topic": "writing_essays",
+      "subtopic": "essay_formatting",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned that essay writing is 'hard'",
+      "topic": "writing_essays",
+      "subtopic": "essay_frustration",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants help adding 'flare' to their essay",
+      "topic": "writing_essays",
+      "subtopic": "essay_improvements",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for help shortening their essay, as it's over the word limit",
+      "topic": "writing_essays",
+      "subtopic": "essay_length",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants help writing an essay, because they're having writer's block",
+      "topic": "writing_essays",
+      "subtopic": "essay_writer_block",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for help with understanding the purpose of an essay",
+      "topic": "writing_essays",
+      "subtopic": "essay_purpose",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants help finding reliable sources for their essay",
+      "topic": "writing_essays",
+      "subtopic": "essay_sources",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned they had help with an essay from their sister last time",
+      "topic": "writing_essays",
+      "subtopic": "essay_help",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to know if AI can write their essay for them",
+      "topic": "writing_essays",
+      "subtopic": "essay_ai",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for help understanding what 'plagiarism' is",
+      "topic": "writing_essays",
+      "subtopic": "essay_plagiarism",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned they want to improve their essay score by 20%",
+      "topic": "writing_essays",
+      "subtopic": "essay_goals",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned they are good at writing the body of an essay, but not the introduction",
+      "topic": "writing_essays",
+      "subtopic": "essay_writing",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to understand how to write a perfect essay",
+      "topic": "writing_essays",
+      "subtopic": "essay_quality",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is writing an essay on 'global warming'",
+      "topic": "writing_essays",
+      "subtopic": "essay_topic",
+      "persona_id": "student"
+    },
+    {
+      "content": "User would like to compare two essays and understand their differences",
+      "topic": "writing_essays",
+      "subtopic": "essay_comparison",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants help writing a conclusion paragraph",
+      "topic": "writing_essays",
+      "subtopic": "essay_conclusion",
+      "persona_id": "student"
+    },
+    {
+      "content": "User would like to write an essay on 'how to make a sandwich'",
+      "topic": "writing_essays",
+      "subtopic": "essay_topic",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to learn how to use quotes inside of an essay",
+      "topic": "writing_essays",
+      "subtopic": "essay_quotes",
+      "persona_id": "student"
+    },
+    {
+      "content": "User would like to find tips to write essays faster",
+      "topic": "writing_essays",
+      "subtopic": "essay_efficiency",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned they are writing an essay on their 'summer vacation'",
+      "topic": "writing_essays",
+      "subtopic": "essay_topic",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is preparing for a Calculus 2 exam on May 15th, needs help with integration techniques.",
+      "topic": "exam_prep",
+      "subtopic": "exam_scheduling",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie struggles with applying trigonometric substitution in integration problems.",
+      "topic": "exam_prep",
+      "subtopic": "specific_concepts",
+      "persona_id": "student"
+    },
+    {
+      "content": "User prefers practice problems with step-by-step solutions for exam preparation.",
+      "topic": "exam_prep",
+      "subtopic": "learning_style",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants to focus on past exam papers from Professor Lee's class.",
+      "topic": "exam_prep",
+      "subtopic": "exam_resources",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is aiming for a B+ grade on the upcoming Calculus 2 exam.",
+      "topic": "exam_prep",
+      "subtopic": "goal_setting",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie finds the textbook explanations on Taylor series confusing.",
+      "topic": "exam_prep",
+      "subtopic": "specific_concepts",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to review improper integrals before the exam.",
+      "topic": "exam_prep",
+      "subtopic": "exam_content",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned feeling anxious about the time limit during the exam.",
+      "topic": "exam_prep",
+      "subtopic": "exam_anxiety",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for tips on memorizing integration formulas.",
+      "topic": "exam_prep",
+      "subtopic": "memorization_techniques",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is concerned about the application of integration in physics problems.",
+      "topic": "exam_prep",
+      "subtopic": "application_focus",
+      "persona_id": "student"
+    },
+    {
+      "content": "User prefers visual aids and diagrams for understanding complex concepts.",
+      "topic": "exam_prep",
+      "subtopic": "learning_style",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned studying with a group of friends on weekends.",
+      "topic": "exam_prep",
+      "subtopic": "study_habits",
+      "persona_id": "student"
+    },
+    {
+      "content": "User requested a comparison of different integration methods.",
+      "topic": "exam_prep",
+      "subtopic": "specific_concepts",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is particularly worried about sequences and series questions.",
+      "topic": "exam_prep",
+      "subtopic": "exam_content",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to improve their problem-solving speed before the exam.",
+      "topic": "exam_prep",
+      "subtopic": "time_management",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie uses a TI-84 calculator during practice sessions.",
+      "topic": "exam_prep",
+      "subtopic": "tools_used",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked about common mistakes to avoid during the Calculus 2 exam.",
+      "topic": "exam_prep",
+      "subtopic": "exam_tips",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is looking for resources that explain L'Hôpital's Rule clearly.",
+      "topic": "exam_prep",
+      "subtopic": "specific_concepts",
+      "persona_id": "student"
+    },
+    {
+      "content": "User requested practice questions covering applications of integrals.",
+      "topic": "exam_prep",
+      "subtopic": "application_focus",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie finds Khan Academy videos helpful for understanding calculus concepts.",
+      "topic": "exam_prep",
+      "subtopic": "learning_resources",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants help understanding convergence tests for infinite series.",
+      "topic": "exam_prep",
+      "subtopic": "specific_concepts",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is aiming to spend at least 2 hours studying Calculus 2 each day.",
+      "topic": "exam_prep",
+      "subtopic": "study_schedule",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for clarification on the difference between definite and indefinite integrals.",
+      "topic": "exam_prep",
+      "subtopic": "specific_concepts",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie feels confident with basic integration but struggles with more complex problems.",
+      "topic": "exam_prep",
+      "subtopic": "skill_level",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to focus on areas under curves and volumes of revolution.",
+      "topic": "exam_prep",
+      "subtopic": "application_focus",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is reviewing their notes from the semester to prepare for the exam.",
+      "topic": "exam_prep",
+      "subtopic": "study_habits",
+      "persona_id": "student"
+    },
+    {
+      "content": "User requested examples of how to use integration in real-world scenarios.",
+      "topic": "exam_prep",
+      "subtopic": "application_focus",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned feeling overwhelmed by the amount of material covered in Calculus 2.",
+      "topic": "exam_prep",
+      "subtopic": "exam_anxiety",
+      "persona_id": "student"
+    },
+    {
+      "content": "User prefers to study in a quiet environment without distractions.",
+      "topic": "exam_prep",
+      "subtopic": "study_environment",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is looking for practice problems with solutions that are easy to understand.",
+      "topic": "exam_prep",
+      "subtopic": "learning_style",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to review power series and Maclaurin series before the exam.",
+      "topic": "exam_prep",
+      "subtopic": "exam_content",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie finds it helpful to work through practice problems with a tutor.",
+      "topic": "exam_prep",
+      "subtopic": "study_habits",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for a summary of the key concepts covered in Calculus 2.",
+      "topic": "exam_prep",
+      "subtopic": "exam_content",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is particularly concerned about questions involving partial fractions.",
+      "topic": "exam_prep",
+      "subtopic": "specific_concepts",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to improve their accuracy when solving integration problems.",
+      "topic": "exam_prep",
+      "subtopic": "skill_level",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie uses online forums to ask questions and get help with Calculus 2.",
+      "topic": "exam_prep",
+      "subtopic": "learning_resources",
+      "persona_id": "student"
+    },
+    {
+      "content": "User requested a practice exam that simulates the actual exam format.",
+      "topic": "exam_prep",
+      "subtopic": "exam_resources",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is aiming to get a good grade on the exam to improve their GPA.",
+      "topic": "exam_prep",
+      "subtopic": "goal_setting",
+      "persona_id": "student"
+    },
+    {
+      "content": "User finds it challenging to remember all the different integration techniques.",
+      "topic": "exam_prep",
+      "subtopic": "memorization_techniques",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants to review the fundamental theorem of calculus before the exam.",
+      "topic": "exam_prep",
+      "subtopic": "exam_content",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for tips on how to stay focused during long study sessions.",
+      "topic": "exam_prep",
+      "subtopic": "study_habits",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is using flashcards to memorize integration formulas and theorems.",
+      "topic": "exam_prep",
+      "subtopic": "memorization_techniques",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to practice problems that involve u-substitution and integration by parts.",
+      "topic": "exam_prep",
+      "subtopic": "specific_concepts",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is reviewing the syllabus to ensure they have covered all the necessary topics.",
+      "topic": "exam_prep",
+      "subtopic": "exam_content",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for examples of how integration is used in engineering.",
+      "topic": "exam_prep",
+      "subtopic": "application_focus",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie finds it helpful to explain calculus concepts to others to reinforce their understanding.",
+      "topic": "exam_prep",
+      "subtopic": "study_habits",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to improve their understanding of the geometric interpretation of integrals.",
+      "topic": "exam_prep",
+      "subtopic": "specific_concepts",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is looking for resources that provide clear and concise explanations of calculus concepts.",
+      "topic": "exam_prep",
+      "subtopic": "learning_resources",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to practice problems that involve finding volumes using the disk and washer methods.",
+      "topic": "exam_prep",
+      "subtopic": "application_focus",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is working on a research project about the impact of social media on political polarization.",
+      "topic": "research_projects",
+      "subtopic": "project_topic",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needs help finding peer-reviewed articles for their research project.",
+      "topic": "research_projects",
+      "subtopic": "resource_request",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is having trouble understanding the methodology section of a research paper.",
+      "topic": "research_projects",
+      "subtopic": "understanding_challenge",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants to find studies that use quantitative methods in their research.",
+      "topic": "research_projects",
+      "subtopic": "methodology_preference",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie's research project is due on December 15th.",
+      "topic": "research_projects",
+      "subtopic": "deadline",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is using the MLA citation style for their research paper.",
+      "topic": "research_projects",
+      "subtopic": "citation_style",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is interested in exploring the connection between echo chambers and political beliefs for their research.",
+      "topic": "research_projects",
+      "subtopic": "research_focus",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needs help with creating a research question for their project.",
+      "topic": "research_projects",
+      "subtopic": "question_development",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants to learn more about conducting surveys for their research.",
+      "topic": "research_projects",
+      "subtopic": "data_collection",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is struggling with writing the literature review section of their research paper.",
+      "topic": "research_projects",
+      "subtopic": "writing_challenge",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants feedback on the structure of their research proposal.",
+      "topic": "research_projects",
+      "subtopic": "proposal_feedback",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is looking for information about the ethical considerations in social science research.",
+      "topic": "research_projects",
+      "subtopic": "ethical_considerations",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie's research project is for their Political Science 301 class.",
+      "topic": "research_projects",
+      "subtopic": "course_context",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned their professor, Dr. Lee, gave specific feedback on their research proposal.",
+      "topic": "research_projects",
+      "subtopic": "professor_feedback",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is concerned about the sample size for their potential survey.",
+      "topic": "research_projects",
+      "subtopic": "sample_size_concern",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked about how to avoid plagiarism in their research paper.",
+      "topic": "research_projects",
+      "subtopic": "plagiarism_prevention",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants help with proofreading their research paper before submission.",
+      "topic": "research_projects",
+      "subtopic": "proofreading_assistance",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is trying to find data sets related to political attitudes and social media usage.",
+      "topic": "research_projects",
+      "subtopic": "data_set_search",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needs help understanding the difference between correlation and causation in research.",
+      "topic": "research_projects",
+      "subtopic": "statistical_understanding",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is looking for examples of well-written research papers in political science.",
+      "topic": "research_projects",
+      "subtopic": "example_request",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants to understand how to analyze qualitative data for their research.",
+      "topic": "research_projects",
+      "subtopic": "qualitative_analysis",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked about using different search engines to find relevant articles.",
+      "topic": "research_projects",
+      "subtopic": "search_strategy",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned that they are having trouble narrowing down their research topic.",
+      "topic": "research_projects",
+      "subtopic": "topic_narrowing",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is interested in the role of algorithms in spreading misinformation for their research.",
+      "topic": "research_projects",
+      "subtopic": "misinformation_focus",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needs help with creating effective research graphs and charts.",
+      "topic": "research_projects",
+      "subtopic": "visualization_help",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants to learn more about the process of peer review.",
+      "topic": "research_projects",
+      "subtopic": "peer_review_understanding",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is considering using Twitter data for their research project.",
+      "topic": "research_projects",
+      "subtopic": "data_source_consideration",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needs help with finding reliable sources of information for their research.",
+      "topic": "research_projects",
+      "subtopic": "source_reliability",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is struggling to paraphrase information correctly for their research paper.",
+      "topic": "research_projects",
+      "subtopic": "paraphrasing_difficulty",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants feedback on their introduction paragraph for their research paper.",
+      "topic": "research_projects",
+      "subtopic": "introduction_feedback",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is looking for resources on how to write a strong conclusion for their research paper.",
+      "topic": "research_projects",
+      "subtopic": "conclusion_help",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked about how to properly cite sources when using online databases.",
+      "topic": "research_projects",
+      "subtopic": "database_citation",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants to understand the concept of statistical significance for their research.",
+      "topic": "research_projects",
+      "subtopic": "statistical_significance",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is interested in learning about different types of biases in research.",
+      "topic": "research_projects",
+      "subtopic": "research_bias",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is having difficulty summarizing the key findings of their research.",
+      "topic": "research_projects",
+      "subtopic": "summary_difficulty",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needs help with developing a strong thesis statement for their research paper.",
+      "topic": "research_projects",
+      "subtopic": "thesis_statement",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is concerned about the validity of their research findings.",
+      "topic": "research_projects",
+      "subtopic": "research_validity",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked about the importance of objectivity in research.",
+      "topic": "research_projects",
+      "subtopic": "research_objectivity",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants to learn more about the different research paradigms.",
+      "topic": "research_projects",
+      "subtopic": "research_paradigms",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is having trouble staying focused while working on their research project.",
+      "topic": "research_projects",
+      "subtopic": "focus_challenge",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needs help understanding how to interpret the results of a regression analysis.",
+      "topic": "research_projects",
+      "subtopic": "regression_analysis",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is looking for information on how to write an abstract for their research paper.",
+      "topic": "research_projects",
+      "subtopic": "abstract_writing",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked about the difference between primary and secondary sources.",
+      "topic": "research_projects",
+      "subtopic": "source_types",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants to understand how to critically evaluate research papers.",
+      "topic": "research_projects",
+      "subtopic": "critical_evaluation",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is having difficulty with time management for their research project.",
+      "topic": "research_projects",
+      "subtopic": "time_management",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie needs help with understanding the concept of internal validity.",
+      "topic": "research_projects",
+      "subtopic": "internal_validity",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is looking for resources on how to write a good discussion section.",
+      "topic": "research_projects",
+      "subtopic": "discussion_section",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie asked about how to format their research paper according to the required style guide.",
+      "topic": "research_projects",
+      "subtopic": "formatting_style",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie wants to learn more about mixed-methods research.",
+      "topic": "research_projects",
+      "subtopic": "mixed_methods",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie is having trouble with analyzing survey data for their research project.",
+      "topic": "research_projects",
+      "subtopic": "survey_data_analysis",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie prefers studying in the morning before classes.",
+      "topic": "study_habits",
+      "subtopic": "time_of_day",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned they find it difficult to focus for more than 45 minutes at a time.",
+      "topic": "study_habits",
+      "subtopic": "attention_span",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie uses the Pomodoro Technique but sometimes forgets to take breaks.",
+      "topic": "study_habits",
+      "subtopic": "pomodoro",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they study best with classical music playing softly in the background.",
+      "topic": "study_habits",
+      "subtopic": "study_environment",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie often procrastinates on assignments until the last minute.",
+      "topic": "study_habits",
+      "subtopic": "procrastination",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie studies at the campus library most weekdays.",
+      "topic": "study_habits",
+      "subtopic": "study_location",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie prefers to study with friends, especially for difficult subjects.",
+      "topic": "study_habits",
+      "subtopic": "study_group",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie has trouble staying motivated when studying alone.",
+      "topic": "study_habits",
+      "subtopic": "motivation",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie finds flashcards helpful for memorizing vocabulary.",
+      "topic": "study_habits",
+      "subtopic": "memorization",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie tends to skip reviewing their notes after class.",
+      "topic": "study_habits",
+      "subtopic": "note_review",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned they get easily distracted by their phone.",
+      "topic": "study_habits",
+      "subtopic": "distraction",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie prefers visual learning materials like diagrams and videos.",
+      "topic": "study_habits",
+      "subtopic": "learning_style",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they feel overwhelmed when they have multiple assignments due at the same time.",
+      "topic": "study_habits",
+      "subtopic": "stress",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie often pulls all-nighters before exams.",
+      "topic": "study_habits",
+      "subtopic": "sleep_schedule",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie procrastinates specifically on writing assignments.",
+      "topic": "study_habits",
+      "subtopic": "writing_avoidance",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie tends to underestimate how long assignments will take.",
+      "topic": "study_habits",
+      "subtopic": "time_management",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned they sometimes forget to eat when studying for long periods.",
+      "topic": "study_habits",
+      "subtopic": "self_care",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie struggles with test anxiety.",
+      "topic": "study_habits",
+      "subtopic": "test_anxiety",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie prefers to study in a quiet environment.",
+      "topic": "study_habits",
+      "subtopic": "study_environment",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they find it helpful to reward themselves after completing a study session.",
+      "topic": "study_habits",
+      "subtopic": "rewards",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned they sometimes compare themselves to other students.",
+      "topic": "study_habits",
+      "subtopic": "comparison",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie finds mind mapping a helpful tool for brainstorming.",
+      "topic": "study_habits",
+      "subtopic": "mind_mapping",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie tends to get discouraged when they don't understand something right away.",
+      "topic": "study_habits",
+      "subtopic": "frustration",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they often feel guilty when taking breaks from studying.",
+      "topic": "study_habits",
+      "subtopic": "guilt",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie struggles with creating a consistent study schedule.",
+      "topic": "study_habits",
+      "subtopic": "schedule",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned they prefer to study in short bursts throughout the day.",
+      "topic": "study_habits",
+      "subtopic": "time_of_day",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie finds it hard to start studying when they're tired.",
+      "topic": "study_habits",
+      "subtopic": "energy_levels",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie tends to cram for exams instead of studying regularly.",
+      "topic": "study_habits",
+      "subtopic": "cramming",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie uses noise-canceling headphones to block out distractions.",
+      "topic": "study_habits",
+      "subtopic": "study_environment",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they often get caught up in social media while studying.",
+      "topic": "study_habits",
+      "subtopic": "distraction",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie prefers studying with a cup of coffee or tea.",
+      "topic": "study_habits",
+      "subtopic": "study_habits",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie finds it hard to prioritize tasks when they have a lot to do.",
+      "topic": "study_habits",
+      "subtopic": "prioritization",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they often feel overwhelmed by the amount of material they need to learn.",
+      "topic": "study_habits",
+      "subtopic": "overwhelmed",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned they struggle to remember formulas and equations.",
+      "topic": "study_habits",
+      "subtopic": "memorization",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie tends to lose track of time when studying online.",
+      "topic": "study_habits",
+      "subtopic": "time_management",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie uses a planner to keep track of assignments and deadlines.",
+      "topic": "study_habits",
+      "subtopic": "organization",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they find it helpful to explain concepts to others to solidify their understanding.",
+      "topic": "study_habits",
+      "subtopic": "teaching",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned they often stay up late studying on weekends.",
+      "topic": "study_habits",
+      "subtopic": "sleep_schedule",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie prefers studying in a well-lit area.",
+      "topic": "study_habits",
+      "subtopic": "study_environment",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they find it hard to ask for help when they're struggling.",
+      "topic": "study_habits",
+      "subtopic": "help_seeking",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie tends to avoid difficult topics when studying.",
+      "topic": "study_habits",
+      "subtopic": "avoidance",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned they often feel stressed about their grades.",
+      "topic": "study_habits",
+      "subtopic": "stress",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie uses online resources like Khan Academy to supplement their learning.",
+      "topic": "study_habits",
+      "subtopic": "online_resources",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they find it helpful to take practice tests before exams.",
+      "topic": "study_habits",
+      "subtopic": "practice_tests",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned they sometimes feel like they're not smart enough to succeed.",
+      "topic": "study_habits",
+      "subtopic": "self_doubt",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie tends to get easily discouraged when they make mistakes.",
+      "topic": "study_habits",
+      "subtopic": "perfectionism",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they often feel pressure to succeed from their family.",
+      "topic": "study_habits",
+      "subtopic": "pressure",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie mentioned they struggle to stay organized when studying.",
+      "topic": "study_habits",
+      "subtopic": "organization",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie prefers to study in a comfortable and relaxing environment.",
+      "topic": "study_habits",
+      "subtopic": "study_environment",
+      "persona_id": "student"
+    },
+    {
+      "content": "Jamie said they find it helpful to visualize concepts when studying.",
+      "topic": "study_habits",
+      "subtopic": "visualization",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is interested in career paths related to data science after graduation",
+      "topic": "career_planning",
+      "subtopic": "career_interests",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned considering a minor in statistics to improve job prospects",
+      "topic": "career_planning",
+      "subtopic": "academic_planning",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to find internships in the tech industry for the summer of 2024",
+      "topic": "career_planning",
+      "subtopic": "internship_search",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is unsure whether to pursue a Masters degree immediately after undergrad",
+      "topic": "career_planning",
+      "subtopic": "further_education",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked about salary expectations for entry-level software engineering roles",
+      "topic": "career_planning",
+      "subtopic": "salary_research",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is exploring different career paths due to feeling unsure about their current major.",
+      "topic": "career_planning",
+      "subtopic": "career_exploration",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is looking for advice on how to network with professionals in their field.",
+      "topic": "career_planning",
+      "subtopic": "networking",
+      "persona_id": "student"
+    },
+    {
+      "content": "User expressed interest in working for a company with a strong social impact",
+      "topic": "career_planning",
+      "subtopic": "values",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is worried about the job market being competitive after graduation.",
+      "topic": "career_planning",
+      "subtopic": "job_market",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants advice on creating a compelling resume and cover letter.",
+      "topic": "career_planning",
+      "subtopic": "resume_writing",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is seeking advice on which skills are most in-demand in the tech industry.",
+      "topic": "career_planning",
+      "subtopic": "skill_development",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned they are attending a career fair on November 15th.",
+      "topic": "career_planning",
+      "subtopic": "career_fair",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is interested in learning more about the company culture at Google.",
+      "topic": "career_planning",
+      "subtopic": "company_research",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is looking for tips on how to prepare for technical interviews.",
+      "topic": "career_planning",
+      "subtopic": "interview_prep",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is comparing the pros and cons of working for a startup versus a large company.",
+      "topic": "career_planning",
+      "subtopic": "company_size",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is trying to decide between two potential internship offers.",
+      "topic": "career_planning",
+      "subtopic": "internship_decision",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked about the average starting salary for data analysts.",
+      "topic": "career_planning",
+      "subtopic": "salary_research",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is concerned about balancing work and personal life after starting a career.",
+      "topic": "career_planning",
+      "subtopic": "work_life_balance",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to develop their leadership skills for future career advancement.",
+      "topic": "career_planning",
+      "subtopic": "leadership_skills",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is exploring the possibility of working remotely after graduation.",
+      "topic": "career_planning",
+      "subtopic": "remote_work",
+      "persona_id": "student"
+    },
+    {
+      "content": "User needs help identifying their strengths and weaknesses for career planning.",
+      "topic": "career_planning",
+      "subtopic": "self_assessment",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is seeking advice on negotiating salary and benefits during job offers.",
+      "topic": "career_planning",
+      "subtopic": "negotiation",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to learn more about different types of certifications that can boost their career.",
+      "topic": "career_planning",
+      "subtopic": "certifications",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked about resources for finding job opportunities in the field of AI.",
+      "topic": "career_planning",
+      "subtopic": "job_search",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is interested in attending a workshop on career development on December 8th.",
+      "topic": "career_planning",
+      "subtopic": "career_workshop",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is looking for guidance on how to write a professional LinkedIn profile.",
+      "topic": "career_planning",
+      "subtopic": "linkedin",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is considering pursuing a career in cybersecurity.",
+      "topic": "career_planning",
+      "subtopic": "career_interests",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to know how to handle rejection after job interviews.",
+      "topic": "career_planning",
+      "subtopic": "job_rejection",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked about the steps involved in applying for a graduate program.",
+      "topic": "career_planning",
+      "subtopic": "graduate_programs",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is trying to figure out what kind of work environment suits them best.",
+      "topic": "career_planning",
+      "subtopic": "work_environment",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned they are passionate about solving real-world problems with technology.",
+      "topic": "career_planning",
+      "subtopic": "values",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is looking for advice on how to build a strong professional network.",
+      "topic": "career_planning",
+      "subtopic": "networking",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to know what skills are necessary to succeed in data analytics.",
+      "topic": "career_planning",
+      "subtopic": "skill_development",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is exploring options to gain practical experience before graduating.",
+      "topic": "career_planning",
+      "subtopic": "experience",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is seeking advice on how to make a career change later in life.",
+      "topic": "career_planning",
+      "subtopic": "career_change",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked for information on resources for finding scholarships for graduate school.",
+      "topic": "career_planning",
+      "subtopic": "scholarships",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to learn about the different roles available within a data science team.",
+      "topic": "career_planning",
+      "subtopic": "job_roles",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is interested in developing their project management skills.",
+      "topic": "career_planning",
+      "subtopic": "project_management",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is seeking advice on how to stay motivated during a long job search.",
+      "topic": "career_planning",
+      "subtopic": "job_motivation",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to know the pros and cons of working for a government agency versus a private company.",
+      "topic": "career_planning",
+      "subtopic": "sector",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is researching the future job outlook for software developers.",
+      "topic": "career_planning",
+      "subtopic": "job_outlook",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned wanting to work for a company that values innovation.",
+      "topic": "career_planning",
+      "subtopic": "values",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked about how to highlight their soft skills in their resume.",
+      "topic": "career_planning",
+      "subtopic": "resume_writing",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is looking for resources to help them prepare for the GRE exam.",
+      "topic": "career_planning",
+      "subtopic": "gre_prep",
+      "persona_id": "student"
+    },
+    {
+      "content": "User wants to know how to effectively follow up after a job interview.",
+      "topic": "career_planning",
+      "subtopic": "interview_follow_up",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is seeking advice on how to handle salary negotiations with multiple job offers.",
+      "topic": "career_planning",
+      "subtopic": "negotiation",
+      "persona_id": "student"
+    },
+    {
+      "content": "User mentioned they are interested in working in the field of artificial intelligence.",
+      "topic": "career_planning",
+      "subtopic": "career_interests",
+      "persona_id": "student"
+    },
+    {
+      "content": "User asked about the importance of having a strong online presence for job searching.",
+      "topic": "career_planning",
+      "subtopic": "online_presence",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is interested in learning more about the different career paths within the field of computer science.",
+      "topic": "career_planning",
+      "subtopic": "career_exploration",
+      "persona_id": "student"
+    },
+    {
+      "content": "User is looking for information on how to get involved in research opportunities as an undergraduate.",
+      "topic": "career_planning",
+      "subtopic": "research",
+      "persona_id": "student"
+    }
+  ]
+}
