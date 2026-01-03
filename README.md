@@ -19,8 +19,8 @@ Sponge implements memory the way brains do: memories decay without reinforcement
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/sponge
-cd sponge
+git clone https://github.com/aperswal/SpongeMemory
+cd SpongeMemory
 
 # 2. Configure your API key
 cp .env.example .env
@@ -40,8 +40,8 @@ Your data persists in a Docker volume. Stop with `docker-compose down`, restart 
 
 ```bash
 # Clone and build
-git clone https://github.com/yourusername/sponge
-cd sponge
+git clone https://github.com/aperswal/SpongeMemory
+cd SpongeMemory
 cargo build --release
 
 # Set API key and run

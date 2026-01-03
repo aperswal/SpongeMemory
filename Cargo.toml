@@ -6,7 +6,7 @@ members = ["crates/*"]
 version = "0.1.0"
 edition = "2021"
 license = "BSL-1.1"
-repository = "https://github.com/yourusername/sponge"
+repository = "https://github.com/aperswal/SpongeMemory"
 description = "Biologically-inspired memory system for AI applications"
 
 [workspace.dependencies]
