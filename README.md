@@ -266,9 +266,7 @@ Target latencies (achievable with proper hardware):
 
 ## License
 
-BSL-1.1 (Business Source License)
-
-Free to use and self-host. Contact us for commercial cloud usage.
+Apache-2.0
 
 ## Acknowledgments
 

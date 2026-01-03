@@ -1,0 +1,40 @@
+# Build artifacts
+target/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Data
+sponge-data/
+*.db
+
+# Documentation (not needed in image)
+docs/
+*.md
+!README.md
+
+# Tests (not needed in release binary)
+crates/*/tests/
+crates/*/examples/
+
+# Python SDK
+sdks/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Plan files
+PLAN.md
